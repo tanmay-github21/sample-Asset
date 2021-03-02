@@ -1,0 +1,22 @@
+{
+  "objectInfo" : {
+    "id" : "lNTZhcTINsckXg65kYlWGO",
+    "name" : "Clinical_HUB",
+    "type" : "Project",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : null,
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "Clinical Ingestion",
+        "contentType" : "Binary",
+        "documentState" : "COMPLETE"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "objectRefs" : [ ]
+}
