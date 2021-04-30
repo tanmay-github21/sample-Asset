@@ -1,0 +1,22 @@
+{
+  "objectInfo" : {
+    "id" : "3EOcEqYixZbd5SWHfMY0oA",
+    "name" : "Github-Rest",
+    "type" : "Project",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : null,
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "Check Github Activity through Rest. ",
+        "contentType" : "Binary",
+        "documentState" : "COMPLETE"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "objectRefs" : [ ]
+}
